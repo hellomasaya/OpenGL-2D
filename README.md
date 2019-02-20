@@ -1,16 +1,16 @@
 Assignment 1 - Jetpack Joyride 2D
 =========================
 
-##Harshita Sharma
+**Harshita Sharma
 
-###Run game:
+Run game:
     mkdir build/
     cd build/
     cmake ..
     make all
     ./graphics_asgn1
 
-###Elements(all have beautiful representation):
+Elements(all have beautiful representation):
     Player - with better Representation(BONUS)
     Wall
     Platform
@@ -25,19 +25,19 @@ Assignment 1 - Jetpack Joyride 2D
     Score
     Level
 
-###Gameplay:
+Gameplay:
     Zooming
     Automatic Panning
     Upward movement using Jetpack
     LEft-Right movement
 
-###Controls:
+Controls:
     Arrow left - Left
     Arrow right - Right
     SPACE - Up
     Drag(Trackpad) - Zoom
 
-###Scoring:
+Scoring:
     Levels : 3
     Points 0-20 : Level 1
     Points 20-50 : Level 2
@@ -51,10 +51,9 @@ Assignment 1 - Jetpack Joyride 2D
     Colliding with Dragon : -20 Points.
     After reaching level 2 the magnet become active.
     After reaching level 3 the dragonbecomes active.
+    **Score and Level displayed using 7-Segment Display.
 
-    Score and Level displayed using 7-Segment Display.
-
-###Physics:
+Physics:
     Gravity
     Magnet influences player's motion
     Projectile nature of special flying objects(power-ups)
