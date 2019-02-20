@@ -1,7 +1,7 @@
-#Assignment 1 - Jetpack Joyride 2D
+Assignment 1 - Jetpack Joyride 2D
 ==================================
 
-#3Harshita Sharma
+**Harshita Sharma**
 
 ###Run game:
 - mkdir build/
@@ -51,7 +51,7 @@
 -    Colliding with Dragon : -20 Points.
 -    After reaching level 2 the magnet become active.
 -    After reaching level 3 the dragonbecomes active.
--    **Score and Level displayed using 7-Segment Display.
+-    Score and Level displayed using 7-Segment Display.
 
 ###Physics:
 -   Gravity
